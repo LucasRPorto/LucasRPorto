@@ -7,7 +7,7 @@
 
 
 - 🎸 Meus hobbies são jogos online e tocar instrumentos musicais. 
-- 🌱 No momento eu estou me aprofundando em front-end.
+- 🌱 No momento eu estou estudando back-end, utilizando a linguagem de programação java.
 - 💞️ Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.
 - 📫 Entre em contato através do meu e-mail: lucasrodriguesporto@gmail.com
 - 😄 Veja aqui o meu linkedin: [Linkedin Lucas](https://www.linkedin.com/in/lucas-rodrigues-porto-240064205/)

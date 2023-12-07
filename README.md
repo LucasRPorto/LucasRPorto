@@ -3,11 +3,11 @@
 
 ### Sofware Developer - Full Stack - Goiânia/GO
 
-- 👨‍🎓 Sou engenheiro de computação formado pela UFG (2021.2). Atualmente estou realizando uma pós graduação no SENAC em Cloud Computing, além de estar aprofundando os meus conhecimentos em backend através dos cursos da Alura.
+- 👨‍🎓 Sou engenheiro de computação formado pela UFG (2021.2), com especialização em Cloud Computing. Atualmente estou realizando uma pós graduação em Arquitetura de Software, além de estar aprofundando os meus conhecimentos em desenvolvimento mobile através dos cursos da Alura.
 
 
 - 🎸 Meus hobbies são jogos online e tocar instrumentos musicais. 
-- 🌱 No momento eu estou estudando a linguagem de programação java.
+- 🌱 No momento eu estou estudando React Native.
 - 💞️ Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.
 - 📫 Entre em contato através do meu e-mail: lucasrodriguesporto@gmail.com
 - 😄 Veja aqui o meu linkedin: [Linkedin Lucas](https://www.linkedin.com/in/lucas-rodrigues-porto-240064205/)

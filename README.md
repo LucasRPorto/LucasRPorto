@@ -1,7 +1,7 @@
 ## Olá 👋 meu nome é Lucas Porto
 ### 
 
-### Sofware Developer - Full Stack - Goiânia/GO
+### Sofware Developer - Full Stack - Brasília/DF
 
 - 👨‍🎓 Sou engenheiro de computação formado pela UFG (2021.2), com especialização em Cloud Computing. Atualmente estou realizando uma pós graduação em Arquitetura de Software, além de estar aprofundando os meus conhecimentos em desenvolvimento mobile através dos cursos da Alura.
 
